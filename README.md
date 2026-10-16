@@ -1,12 +1,12 @@
-# Privacy Policy for Goo Crew
+# Privacy Policy for Slime Crew
 
-**Effective Date:** October 15, 2026
+**Effective Date:** October 16, 2026
 
-nnwh ("we," "us," or "our") built the Goo Crew app (shown on Google Play as
-"Goo Crew: Slime Survivor") as a free app. This SERVICE is provided by nnwh at
+nnwh ("we," "us," or "our") built the Slime Crew app (shown on Google Play as
+"Slime Crew: Roguelike Survivor") as a free app. This SERVICE is provided by nnwh at
 no cost and is intended for use as is.
 
-Goo Crew is a slime survivor roguelike. The game runs entirely on your device
+Slime Crew is a slime survivor roguelike. The game runs entirely on your device
 and works offline: **we do not collect, store, or share any information about
 you**. The current version shows no advertisements, contains no analytics, and
 does not connect to the internet at all.
@@ -18,11 +18,11 @@ described in this Privacy Policy.
 
 ## 1. Information Collection and Use
 
-We do **not** collect any personally identifiable information through Goo Crew.
+We do **not** collect any personally identifiable information through Slime Crew.
 The app does not require an account, does not ask you to sign in, and does not
 transmit your game data to us or to anyone else.
 
-Goo Crew stores a small amount of information **locally on your device only**,
+Slime Crew stores a small amount of information **locally on your device only**,
 so the game can remember your preferences and progress:
 
 - Your settings (sound and music volume, vibration, and camera shake);
@@ -40,7 +40,7 @@ contacts, the camera, the microphone, or your files.
 
 ## 2. Third-Party Services
 
-Goo Crew does not use any third-party service that collects information: no
+Slime Crew does not use any third-party service that collects information: no
 advertising network, no analytics, no crash reporting, no social login.
 
 - **Game engine** — the game is built with Godot Engine, which runs inside the
@@ -52,7 +52,7 @@ advertising network, no analytics, no crash reporting, no social login.
 
 ## 3. Advertising
 
-The current version of Goo Crew **does not show any advertisements**.
+The current version of Slime Crew **does not show any advertisements**.
 
 A future version may offer optional rewarded ads (an ad you choose to watch in
 return for an in-game reward). If that happens, this policy will be updated
@@ -62,7 +62,7 @@ you choosing to watch one.
 
 ## 4. Log Data
 
-We do not collect Log Data. Because Goo Crew does not communicate with any
+We do not collect Log Data. Because Slime Crew does not communicate with any
 server, we do not receive any diagnostic information, IP addresses, or usage
 statistics from your use of the app. Crash and diagnostic reporting, if any,
 is handled by the operating system or Google Play according to their own
@@ -76,14 +76,14 @@ Play, which distributes the app.
 
 ## 6. Security
 
-We value your trust. Goo Crew keeps all of its data locally on your device and
+We value your trust. Slime Crew keeps all of its data locally on your device and
 does not transmit it, so there is no transfer of your information over the
 internet to secure. We nevertheless encourage you to protect your device using
 the security features it provides.
 
 ## 7. Links to Other Sites
 
-Goo Crew contains no links that open websites. Its credits screen names the
+Slime Crew contains no links that open websites. Its credits screen names the
 websites of the people and projects that made the game's art and engine, as
 plain text only.
 
@@ -92,7 +92,7 @@ plain text only.
 We do not knowingly collect personally identifiable information from children
 under 13, and the app collects none from anyone.
 
-Goo Crew is a general-audience game with cartoon fantasy violence and is not
+Slime Crew is a general-audience game with cartoon fantasy violence and is not
 directed to children. If you are a parent or guardian and believe your child has
 provided information to us, please contact us so that we can address it.
 
